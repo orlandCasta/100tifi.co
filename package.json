@@ -1,0 +1,19 @@
+{
+  "name": "100tifi.co",
+  "version": "1.0.0",
+  "description": "call api practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlandCasta/100tifi.co.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlandCasta/100tifi.co/issues"
+  },
+  "homepage": "https://github.com/orlandCasta/100tifi.co#readme"
+}
