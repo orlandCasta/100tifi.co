@@ -4,7 +4,8 @@
   "description": "call api practice",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open --mode development"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/orlandCasta/100tifi.co/issues"
   },
-  "homepage": "https://github.com/orlandCasta/100tifi.co#readme"
+  "homepage": "https://github.com/orlandCasta/100tifi.co#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^4.5.1",
+    "webpack-cli": "^4.3.1",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "webpack": "^5.14.0"
+  }
 }
