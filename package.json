@@ -1,30 +1,23 @@
 {
-  "name": "100tifi.co",
+  "name": "cientifico",
   "version": "1.0.0",
-  "description": "call api practice",
+  "description": "single page application",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack-dev-server --open --mode development"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/orlandCasta/100tifi.co.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/orlandCasta/100tifi.co/issues"
-  },
-  "homepage": "https://github.com/orlandCasta/100tifi.co#readme",
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Oscar Barajas <oscar@platzi.com>",
+  "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.12.10",
-    "babel-loader": "^8.2.2",
-    "html-webpack-plugin": "^4.5.1",
-    "webpack-cli": "^4.3.1",
-    "webpack-dev-server": "^3.11.2"
-  },
-  "dependencies": {
-    "webpack": "^5.14.0"
+    "@babel/core": "^7.7.5",
+    "babel-loader": "^8.0.6",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
   }
 }
