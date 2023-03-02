@@ -53,8 +53,3 @@ Every time you make a change to your project it is necessary to repeat steps 4 a
 * JavaScript Vanilla
 * HTML
 * CSS
-
-
-
----
-⌨️ con ❤️ by [Villanuevand] (https://github.com/Villanuevand) 😊
